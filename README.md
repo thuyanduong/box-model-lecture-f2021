@@ -1,3 +1,6 @@
+# Website
+https://thuyanduong.github.io/box-model-lecture-f2021/
+
 ### The Box Model
 * What are the four different parts of the box model?
 * What is padding, margin, and border and how does each change the layout of content?
